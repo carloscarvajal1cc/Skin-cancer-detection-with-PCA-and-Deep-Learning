@@ -1,2 +1,1 @@
-# UTS_MachineLearning_Assigment2
-Assignment 2
+# Skin Cancer detection with PCA and deep learning
